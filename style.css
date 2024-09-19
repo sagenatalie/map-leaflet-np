@@ -1,3 +1,6 @@
 #map-title {
   font-family: "Gloria Hallelujah", sans-serif;
 }
+#description { 
+  position: relative; margin-top: 10px; margin-left: 50px; float: right; background: grey; border: 2px solid rgba(0,0,0,0.2); padding: 6px 8px; font-family: "Gloria Hallelujah", Helvetica; font-weight: bold; font-size: 24px; z-index: 800;
+}
